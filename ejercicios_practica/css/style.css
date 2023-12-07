@@ -14,3 +14,18 @@ button {
     width: 200px;
     height: 50px;
 }
+
+#renderizar {
+    display: flex;
+    flex-direction: row;
+}
+
+#imagen {
+    max-width: 300px;
+    margin: 15px;
+}
+
+#info {
+    max-width: 50%;
+    margin: 15px;
+}
